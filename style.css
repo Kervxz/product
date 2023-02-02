@@ -113,7 +113,7 @@ button img{
        .card{
            padding: 0
            display: flex;
-           width: 300px;
+           width: 285px;
            flex-direction: column;
            text-align: center;
            height: 500px;
@@ -122,6 +122,22 @@ button img{
           height: 200px;
           width: 300px !important;
           border-radius: 10px 10px 0px 0px;
-}
+       }
+       .card-body h1.gab{
+        font-size: 30px;
+        text-align: left;
+        font-family: fraunces;
+        font-weight: bold;
+        line-height: 35px;
+        margin-bottom: 10px;
+      }
+      .card-body p.description{
+        font-size: 12px;
+        text-align: left;
+        font-family: montserrat;
+        margin-top: 1rem;   
+        font-weight: 500px;
+        margin-bottom: 10px; 
+      }
 }
   
