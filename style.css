@@ -32,10 +32,10 @@
    font-family: montserrat;
 }
 .card-body{
-    width: 320px;
+    width: 323px;
     height: 400px;
     text-align: left;
-    padding: 20px;
+    padding: 12px;
 }
 .card-body p.preview{
     font-size: 12px;
@@ -48,7 +48,7 @@
 }
 .card-body h1.gab{
     color: hsl(228, 21%, 48%);
-    font-size: 30px;
+    font-size: 31px;
     text-align: left;
     font-family: fraunces;
     font-weight: bold;
