@@ -47,6 +47,7 @@
     margin-bottom: 10px;
 }
 .card-body h1.gab{
+    color: hsl(228, 21%, 48%);
     font-size: 30px;
     text-align: left;
     font-family: fraunces;
@@ -103,6 +104,9 @@ button{
     font-size: 14px !important;
     font-weight: 700 !important;
     font-family: "Monserrat" !important;
+}
+button:hover{
+   background: hsl(228, 21%, 48%);
 }
 button img{
     padding-right:10px;
