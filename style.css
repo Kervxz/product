@@ -119,13 +119,10 @@ button img{
            text-align: center;
            height: 500px;
        }    
-        picture, source{
-            width: 100%;
-            height: 100px !important;
-        }
-        .image picture, image source{
-            width: 100%;
-            height: 100px;
-        }
+        .image img {
+          height: 200px;
+          width: 300px !important;
+          border-radius: 10px 10px 0px 0px;
+}
 }
   
