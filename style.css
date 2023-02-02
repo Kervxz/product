@@ -116,7 +116,7 @@ button img{
            width: 285px;
            flex-direction: column;
            text-align: center;
-           height: 500px;
+           height: 530px;
        }    
         .image img {
           height: 200px;
@@ -126,18 +126,21 @@ button img{
        .card-body h1.gab{
         font-size: 30px;
         text-align: left;
-        font-family: fraunces;
-        font-weight: bold;
         line-height: 35px;
         margin-bottom: 10px;
       }
       .card-body p.description{
         font-size: 12px;
-        text-align: left;
-        font-family: montserrat;
-        margin-top: 1rem;   
-        font-weight: 500px;
-        margin-bottom: 10px; 
+      }
+     .price p.original {
+        margin-top: 1rem;
+     }
+      button{
+        width: 245px;
+        height: 37px;
+      }
+      .price p.discount {
+        margin-top: 0.5rem; 
       }
 }
   
