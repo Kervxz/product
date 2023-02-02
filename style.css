@@ -96,14 +96,13 @@ picture, source {
 button{
     color: white;
     width: 200px;
-    height: 40px;
+    height: 38px;
     background: hsl(158, 36%, 37%);
     border-radius: 5px;
     border: none;
-    font-size: 14px;  
-    font-weight: 700px;
-    font-family: "monserrat";
-    margin-button: 2rem;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    font-family: "Monserrat" !important;
 }
 button img{
     padding-right:10px;
