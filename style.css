@@ -145,5 +145,8 @@ button img{
       .card-body{
         width: 285px;
       }
+      .card-body p.preview{
+        margin-top: 0rem;   
+      }
 }
   
