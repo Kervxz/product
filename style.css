@@ -47,7 +47,7 @@
     margin-bottom: 10px;
 }
 .card-body h1.gab{
-    font-size: 35px;
+    font-size: 30px;
     text-align: left;
     font-family: fraunces;
     font-weight: bold;
@@ -55,7 +55,7 @@
     margin-bottom: 10px;
 }
 .card-body p.description{
-    font-size: 13px;
+    font-size: 12px;
     text-align: left;
     font-family: montserrat;
     margin-top: 1rem;   
@@ -71,16 +71,16 @@ picture, source {
 }
 .price{
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: -5px;
 }
 .price p.discount{
     color: hsl(158, 36%, 37%);
-    font-size: 35px;
+    font-size: 30px;
     text-align: left;
     font-family: fraunces;
     font-weight: bold;
-    line-height: 35px;
-    margin-bottom: 10px;
+    line-height: 30px;
+    margin-bottom: 2rem;
     margin-top: 1.5rem;    
 }
 .price p.original{
@@ -90,25 +90,25 @@ picture, source {
     font-family: "monserrat";
     font-weight: 500px;
     align-items: right;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     margin-left: 1.5rem;
 }
 button{
     color: white;
-    position: absolute;
-    width: 190px;
-    height: 50px;
+    width: 200px;
+    height: 40px;
     background: hsl(158, 36%, 37%);
     border-radius: 5px;
     border: none;
     font-size: 14px;  
     font-weight: 700px;
     font-family: "monserrat";
+    margin-button: 2rem;
 }
 button img{
     padding-right:10px;
     width: 25px;
-    height: 15px;  
+    height: 20px;  
 }
 @media screen and (max-width:375px){
        .card{
