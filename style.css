@@ -142,5 +142,8 @@ button img{
       .price p.discount {
         margin-top: 0.5rem; 
       }
+      .card-body{
+        width: 285px;
+      }
 }
   
